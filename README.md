@@ -10,5 +10,5 @@ Copy [Type.gs][types.gs_raw] content to your project.
 
 ![Sheets Edit Event][sheets_edit.png ]
 
-[types.gs_raw]: types.gs??raw=true
+[types.gs_raw]: types.gs?raw=true
 [sheets_edit.png]: assets/sheets_edit.png 'Sheets Edit Event'
