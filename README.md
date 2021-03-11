@@ -4,11 +4,11 @@ It is a textual collection of JSDoc types and definitions for quick custom use i
 
 ## How to use
 
-Copy [Type.gs][types.gs_raw] content to your project.
+Copy [Type.gs][types.js_raw] content to your project.
 
 ## Samples
 
 ![Sheets Edit Event][sheets_edit.png ]
 
-[types.gs_raw]: Types.gs?raw=true
+[types.js_raw]: Types.js?raw=true
 [sheets_edit.png]: assets/sheets_edit.png 'Sheets Edit Event'
