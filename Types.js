@@ -1,6 +1,7 @@
 /**
  * @file Apps Script types custom extender
  * @author Alex Ivanov <ai@contributor.pw>
+ * {@link https://github.com/contributorpw/apps-script-types-custom-extender}
  */
 
 /**
