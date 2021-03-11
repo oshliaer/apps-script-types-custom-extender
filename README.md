@@ -4,7 +4,7 @@ It is a textual collection of JSDoc types and definitions for quick custom use i
 
 ## How to use
 
-Copy [Type.gs][types.js_raw] content to your project.
+Copy [Type.js][types.js_raw] content to your project.
 
 ## Samples
 
