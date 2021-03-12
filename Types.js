@@ -38,3 +38,23 @@
  * }} Events.SheetsOnEdit
  *
  */
+
+/**
+ * 
+ * Timedriven Event Interface
+ * 
+ * @typedef {{
+ *   authMode: globalThis.ScriptApp.AuthMode;
+ *   year: number;
+ *   month: number;
+ *   'week-of-year': number;
+ *   'day-of-month': number;
+ *   'day-of-week': number;
+ *   hour: number;
+ *   minute: number;
+ *   second: number;
+ *   timezone: string;
+ *   triggerUid: string;
+ * }} Events.TimeDriven
+ * 
+ */

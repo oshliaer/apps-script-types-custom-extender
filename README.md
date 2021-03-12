@@ -8,7 +8,7 @@ Copy [Type.js][types.js_raw] content to your project.
 
 ## Samples
 
-![Sheets Edit Event][sheets_edit.png ]
+![Sheets Edit Event][sheets_edit.png]
 
 [types.js_raw]: Types.js?raw=true
 [sheets_edit.png]: assets/sheets_edit.png 'Sheets Edit Event'
